@@ -1,7 +1,7 @@
 # 💫 About Me:
 I work with various programming languages,<br>such as HTML, CSS, JavaScript, and I have experience<br>with the React Framework.<br>I'm also into building responsive, user-friendly websites<br>and have a strong grasp of web development best practices
 
-
+[![committers.top badge](https://user-badge.committers.top/ghana_private/USERNAME.svg)](https://user-badge.committers.top/ghana_private/USERNAME)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eugene-nunoo-b0916b229//) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@paakwesinunoo135) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/daemon_2022) 
 
